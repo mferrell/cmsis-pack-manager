@@ -1,5 +1,4 @@
 # Build stuff
-/rust/Cargo.lock
 /rust/target/
 /rust/*/target/
 /build
